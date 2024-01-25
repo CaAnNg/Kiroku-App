@@ -1,3 +1,8 @@
-/.vs 
+/.vs
 /Forms-Testing/.vs
 /Forms-Testing/.vs/*
+
+*.jsx
+*.tsx
+*.sqlite
+*.vsidx
